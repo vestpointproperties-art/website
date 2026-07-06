@@ -1,0 +1,6 @@
+{
+  "name": "Vestpoint Properties Limited",
+  "description": "Vestpoint Properties Limited is a trusted real estate brokerage and investment company in Lagos, Nigeria, helping clients buy verified land, luxury homes, and high-return investment properties. Explore secure property opportunities, book inspections, and receive expert guidance for confident real estate investments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
