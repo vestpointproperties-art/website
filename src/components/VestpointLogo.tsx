@@ -7,7 +7,7 @@ interface VestpointLogoProps {
 }
 
 export const VestpointLogo: React.FC<VestpointLogoProps> = ({
-  className = 'h-12 w-auto',
+  className = 'h-16 w-auto',
   variant = 'light',
   showText = true,
 }) => {

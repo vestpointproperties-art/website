@@ -86,7 +86,7 @@ export default function Navbar({ currentView, onNavigate, onOpenInspection }: Na
             className="flex items-center group text-left cursor-pointer"
             id="nav-logo-btn"
           >
-            <VestpointLogo variant="light" className="h-10 sm:h-12 md:h-14" />
+            <VestpointLogo variant="light" className="h-14 sm:h-18 md:h-22" />
           </button>
 
           {/* Desktop Navigation Links */}

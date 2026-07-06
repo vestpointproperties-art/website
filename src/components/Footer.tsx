@@ -43,7 +43,7 @@ export default function Footer({ onNavigate }: FooterProps) {
         {/* Company Overview column */}
         <div className="space-y-4">
           <div className="flex items-center text-white">
-            <VestpointLogo variant="dark" className="h-10 md:h-12" />
+            <VestpointLogo variant="dark" className="h-14 md:h-18" />
           </div>
           <p className="text-sm text-gray-400 leading-relaxed">
             Vestpoint Properties Limited is Nigeria’s premier real estate brokerage and investment advisory firm. We empower local and diaspora investors to securely acquire verified land, luxury residences, and high-ROI investments across Nigeria (Lagos, Abuja, Enugu, PH, Oyo, Ogun, etc.) and abroad, with our head office currently based in Lagos.
